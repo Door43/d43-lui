@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lui:home|Door43 (lui)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lui|d43-lui repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lui/archive/master.zip|d43-lui.zip]]
+
+**Recent Changes**
+{{changes>ns = lui}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lui|Ethnologue data]]
+
